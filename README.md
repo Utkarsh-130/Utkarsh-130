@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Upadhyay</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer </h3>
 
-- 🔭 I’m currently working on **a mini Music Daw**
+- 🔭 I’m currently working on **Wallpaper Mobile Application **
 
-- 🌱 I’m currently learning **React and Springboot**
+- 🌱 I’m currently learning **Nextjs and Django **
 
-- 👯 I’m looking to collaborate on **Web-Dev and Web3 projects**
+- 👯 I’m looking to collaborate on **Mobile-Dev and Web3 projects**
 
 - 💬 Ask me about **react,vite,Bootstrap and Javascript**
 
