@@ -6,15 +6,15 @@
 
 <br/>
 <div align="Center">
-- 🔭 I’m currently working on **Wallpaper Mobile Application **
+🔭 I’m currently working on **Wallpaper Mobile Application ** 
 
-- 🌱 I’m currently learning **Nextjs and Django **
+🌱 I’m currently learning **Nextjs and Django **
 
-- 👯 I’m looking to collaborate on **Mobile-Dev and Web3 projects**
+👯 I’m looking to collaborate on **Mobile-Dev and Web3 projects**
 
-- 💬 Ask me about **react,vite,Bootstrap and Javascript**
+💬 Ask me about **react,vite,Bootstrap and Javascript**
 
-- 📫 How to reach me **utkarsh130@protonmail.com**
+📫 How to reach me **utkarsh130@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
