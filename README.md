@@ -15,6 +15,7 @@
 💬 Ask me about **react,vite,Bootstrap and Javascript**
 
 📫 How to reach me **utkarsh130@protonmail.com**
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/Utkarsh_125)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
