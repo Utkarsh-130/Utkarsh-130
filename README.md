@@ -10,7 +10,6 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Utkarsh_125)](https://leetcode.com/Utkarsh_125)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Utkarsh-130&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Utkarsh-130&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-130&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
