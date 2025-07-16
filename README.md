@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Utkarsh+Upadhyay!;" />
 </h1>
-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on kanji Snap <br>👯 I’m looking to collaborate on **Web-Dev and Web3 projects**<br>🌱 I’m currently learning Springboot <br>💬 Ask me about MERN Stack , React-native ,Kotlin <br>📫 How to reach me utkarsh130@protonmail.com
 
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/utkarsh-upadhyay-a774b9287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/utkarsh-upadhyay-a774b9287/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/utkarsh-upadhyay-a774b9287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/utkarsh-upadhyay-a774b9287/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/utky_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/utky_20" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/utkarsh1301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/utkarsh1301" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/utkarsh_125/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/utkarsh_125/" height="30" width="40" /></a>
