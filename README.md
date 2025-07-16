@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Utkarsh+Upadhyay!;" />
 </h1>
 💫 About Me:
-🔭 I’m currently working on kanji Snap <br>👯 I’m looking to collaborate on **Web-Dev and Web3 projects**<br>🌱 I’m currently learning Springboot <br>💬 Ask me about MERN Stack , React-native ,Kotlin <br>📫 How to reach me utkarsh130@protonmail.com
+🔭 I’m currently working on kanji Snap <br>👯 I’m looking to collaborate on Web-Dev ,Mobile Dev  and Web3 projects<br>🌱 I’m currently learning Springboot <br>💬 Ask me about MERN Stack , React-native ,Kotlin <br>📫 How to reach me utkarsh130@protonmail.com
 
 
 # 💻 Tech Stack:
